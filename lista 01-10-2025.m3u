@@ -25,6 +25,8 @@
 
 #EXTINF:-1 group-title="LA LIGA" tvg-logo="https://i.ibb.co/Tc97zSb/liga2.png" tvg-id="M+ LaLiga 2 HD" tvg-name="M+ LaLiga 2 720p",M+ LaLiga 2 720p
 plugin://script.module.horus?action=play&id=ad42faa399df66dcd62a1cbc9d1c99ed4512d3b8
+#EXTINF:-1 group-title="LA LIGA DIEGO" tvg-logo="https://i.ibb.co/Tc97zSb/liga2.png" tvg-id="M+ LaLiga 2 HD" tvg-name="M+ LaLiga 2 720p",M+ LaLiga 2 720p
+plugin://script.module.horus?action=play&id=199190e3f28c1de0be34bccf0d3568dc65209b99
 #EXTINF:-1 group-title="MOVISTAR DEPORTES" tvg-logo="https://i.ibb.co/jDg5qWD/deportes3.png" tvg-id="M+ Deportes 3" tvg-name="M+ Deportes 3 720p",M+ Deportes 3 720p
 plugin://script.module.horus?action=play&id=2fd410c5d89e7a627cd3785685b7915b8e4bd534
 #EXTINF:-1 group-title="LA LIGA" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" tvg-name="M+ LaLiga 1080p",M+ LaLiga 1080p
@@ -145,6 +147,7 @@ plugin://script.module.horus?action=play&id=74ab4e4ec7e2da001f473ca40893b7307b80
 plugin://script.module.horus?action=play&id=2f3cfd199a49819cbd129689a840dc3d23ab93aa
 #EXTINF:-1 group-title="FORMULA 1" tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" tvg-name="DAZN F1 1080p",DAZN F1 1080p
 plugin://script.module.horus?action=play&id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
+
 
 
 
