@@ -616,25 +616,16 @@ plugin://script.module.horus?action=play&id=99f0646986e9266836dd79047dedecb04e24
 
 
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="DIEGO", Canal especial
-plugin://script.module.horus?action=play&id=4b528d10eaad747ddf52251206177573ee3e9f74
+plugin://script.module.horus?action=play&id=0febfb5cac3384f487d55c559bbfc877db2d0357
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="DIEGO", Canal especial
-plugin://script.module.horus?action=play&id=382b14499e3d76e557d449d2e5bbc4e4bd63bd39
+plugin://script.module.horus?action=play&id=3ace1463a7cad979c3a4002b245487e9982e9f1a
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="DIEGO", Canal especial
-plugin://script.module.horus?action=play&id=2a6b1fd8a24b23747db1ea534a51457708523602
+plugin://script.module.horus?action=play&id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="DIEGO", Canal especial
-plugin://script.module.horus?action=play&id=14b6cd8769cd485f2cffdca64be9698d9bfeac58
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="DIEGO", Canal especial
-plugin://script.module.horus?action=play&id=00c9bc9c5d7d87680a5a6bed349edfa775a89947
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="DIEGO", Canal especial
-plugin://script.module.horus?action=play&id=571ce113b9d600a145766443d7417eccab2e1846
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="DIEGO", Canal especial
-plugin://script.module.horus?action=play&id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="DIEGO", Canal especial
-plugin://script.module.horus?action=play&id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
+plugin://script.module.horus?action=play&id=ed74406ccdb3c21941b919db6bffca7f1de015bb
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="DIEGO", Canal especial
 plugin://script.module.horus?action=play&id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="DIEGO", Canal especial
-plugin://script.module.horus?action=play&id=fbc39d8a9e5d7c9ac6a1438d440104620f54e09c
+
 
 
 
