@@ -16,16 +16,12 @@
 
 #EXTINF:-1 tvg-id="DAZN Baloncesto" tvg-logo="https://www.acb.com/docs/descarga/logos/liga_endesa/JPG/ligaendesa_vertical_positivo.jpg" group-title="BALONCESTO",ACB EVENTO 01 720p **
 plugin://script.module.horus?action=play&id=23bee556c002d0726c1f0cac98a1901cff0a9239
-#EXTINF:-1 tvg-id="DAZN Baloncesto" tvg-logo="https://www.acb.com/docs/descarga/logos/liga_endesa/JPG/ligaendesa_vertical_positivo.jpg" group-title="BALONCESTO",ACB EVENTO 01 **
-plugin://script.module.horus?action=play&id=53962d7fb865aff73b34a3afb2905cd492f60d75
-#EXTINF:-1 tvg-id="DAZN Baloncesto" tvg-logo="https://www.acb.com/docs/descarga/logos/liga_endesa/JPG/ligaendesa_vertical_positivo.jpg" group-title="BALONCESTO",ACB EVENTO 02 **
-plugin://script.module.horus?action=play&id=22b702984a0db43fd371c30e2df150b2336551cd
-#EXTINF:-1 tvg-id="DAZN Baloncesto" tvg-logo="https://www.acb.com/docs/descarga/logos/liga_endesa/JPG/ligaendesa_vertical_positivo.jpg" group-title="BALONCESTO",ACB EVENTO 03 **
-plugin://script.module.horus?action=play&id=02ec118ee4586d96df9115ffc486be9a499d00d9
 #EXTINF:-1 tvg-id="DAZN 1 HD" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="DAZN",DAZN 1 1080p *
 plugin://script.module.horus?action=play&id=dddff67edfa7061f643ec5ae0be110169850363d
 #EXTINF:-1 tvg-id="DAZN 1 HD" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="DAZN",DAZN 1 **
-plugin://script.module.horus?action=play&id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+plugin://script.module.horus?action=play&id=9afc89481b721ce6c326c85e47148676077b8e62
+#EXTINF:-1 tvg-id="DAZN 2 HD" tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" group-title="DAZN",DAZN 2 1080p **
+plugin://script.module.horus?action=play&id=d60b8c154828cb990b7bb1570764b215bd979e74
 #EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" group-title="EUROSPORT",Eurosport 1 720p **
 plugin://script.module.horus?action=play&id=a7b42f9d65636d1b1d9316d3e91ebe12b192658c
 #EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" group-title="EUROSPORT",Eurosport 1 1080p *
@@ -42,48 +38,60 @@ plugin://script.module.horus?action=play&id=d01d255aaaf2fb91c0a8c98a826b4bd4769d
 plugin://script.module.horus?action=play&id=1f75d92098580443857caa95a719103cb83781b0
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" group-title="HYPERMOTION",LaLiga TV Hypermotion 720p **
 plugin://script.module.horus?action=play&id=a4f072c9b614323ac1258a175f868a909ea3c8cd
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" group-title="HYPERMOTION",LaLiga TV Hypermotion 1080p *
+plugin://script.module.horus?action=play&id=4636ed75106cb00e9c70cc2029edf0a4df7ad73f
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" group-title="HYPERMOTION",LaLiga TV Hypermotion 1080p **
 plugin://script.module.horus?action=play&id=87bb542f974b6b9e89d0f2e20ed6dc93426f4be0
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion 2" tvg-logo="https://i.ibb.co/8K0VrQV/hypermotion2.png" group-title="HYPERMOTION",LaLiga TV Hypermotion 2 720p *
 plugin://script.module.horus?action=play&id=3a21e651c0bffe810cfc8537065cb81f5ed68a55
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion 2" tvg-logo="https://i.ibb.co/8K0VrQV/hypermotion2.png" group-title="HYPERMOTION",LaLiga TV Hypermotion 2 1080p *
 plugin://script.module.horus?action=play&id=a5b9d834ad92bfb80fe01bf89cc20bd68be199fb
-#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" group-title="LA LIGA",DAZN LaLiga 720p **
-plugin://script.module.horus?action=play&id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 2" tvg-logo="https://i.ibb.co/8K0VrQV/hypermotion2.png" group-title="HYPERMOTION",LaLiga TV Hypermotion 2 1080p **
+plugin://script.module.horus?action=play&id=709075831bf5c41ed0a20dfbd640aab6c28971f8
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 3" tvg-logo="https://i.ibb.co/826y2Yv/Hypermotion3.png" group-title="HYPERMOTION",LaLiga TV Hypermotion 3 1080p **
+plugin://script.module.horus?action=play&id=1fdb405a6942da0941266f24cdd1c71b11552f1f
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" group-title="LA LIGA",DAZN LaLiga 1080p *
+plugin://script.module.horus?action=play&id=cc108ae39f92c48f6c946763047bd1c9b7b7d889
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" group-title="LA LIGA",DAZN LaLiga 1080p **
 plugin://script.module.horus?action=play&id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-2-es.png" group-title="LA LIGA",DAZN LaLiga 2 720p **
+plugin://script.module.horus?action=play&id=c976c7b37964322752db562b4ad65515509c8d36
+#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-2-es.png" group-title="LA LIGA",DAZN LaLiga 2 1080p *
+plugin://script.module.horus?action=play&id=b63fcadc2390455d8a328f6c16b8b0a9adec21a3
+#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-2-es.png" group-title="LA LIGA",DAZN LaLiga 2 1080p **
+plugin://script.module.horus?action=play&id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="LA LIGA",M+ LaLiga 720p *
+plugin://script.module.horus?action=play&id=f863873de9f7b2996dde19a0657dd89835af3007
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="LA LIGA",M+ LaLiga 720p *
+plugin://script.module.horus?action=play&id=3ace1463a7cad979c3a4002b245487e9982e9f1a
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="LA LIGA",M+ LaLiga 720p **
+plugin://script.module.horus?action=play&id=14b6cd8769cd485f2cffdca64be9698d9bfeac58
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="LA LIGA",M+ LaLiga 1080p *
+plugin://script.module.horus?action=play&id=0febfb5cac3384f487d55c559bbfc877db2d0357
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="LA LIGA",M+ LaLiga 1080p **
+plugin://script.module.horus?action=play&id=c9321006921967d6258df6945f1d598a5c0cbf1e
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="LA LIGA",M+ LaLiga 1080p **
+plugin://script.module.horus?action=play&id=00c9bc9c5d7d87680a5a6bed349edfa775a89947
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="LA LIGA",M+ LaLiga 1080p **
+plugin://script.module.horus?action=play&id=4b528d10eaad747ddf52251206177573ee3e9f74
+#EXTINF:-1 tvg-id="M+ LaLiga 2 HD" tvg-logo="https://i.ibb.co/Tc97zSb/liga2.png" group-title="LA LIGA",M+ LaLiga 2 720p **
+plugin://script.module.horus?action=play&id=ad42faa399df66dcd62a1cbc9d1c99ed4512d3b8
+#EXTINF:-1 tvg-id="M+ LaLiga 2 HD" tvg-logo="https://i.ibb.co/Tc97zSb/liga2.png" group-title="LA LIGA",M+ LaLiga 2 *
+plugin://script.module.horus?action=play&id=b45cfe568e106a7df65c950805d6f123c989ce84
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKBCa6SydXxbOh3qbRLTAWW6FOnRo5nXa9kw&s" group-title="LA LIGA",SKY Sports LaLiga 1080p **
 plugin://script.module.horus?action=play&id=e9975d38aaa4475ac0b1fa0faa541bbadd85a662
-#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 1080p *
-plugin://script.module.horus?action=play&id=91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKBCa6SydXxbOh3qbRLTAWW6FOnRo5nXa9kw&s" group-title="LA LIGA",SKY Sports LaLiga SD **
+plugin://script.module.horus?action=play&id=a9bddffdff085cdc18b34218d5dc1093b88e3c0a
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 1080p **
 plugin://script.module.horus?action=play&id=97df5b7824948972d041d8ca2a4d29c90b641bc9
-#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 1080p **
-plugin://script.module.horus?action=play&id=2b51710cee513e8939785fa3e7980f32d4e0415f
-#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 1080p **
-plugin://script.module.horus?action=play&id=9db029dff6a9c637d1f670e78dbc1a479b9b406e
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 2 720p **
-plugin://script.module.horus?action=play&id=38f7b2044e549df2039ff26cefa6f9a60c854d5e
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 2 1080p *
 plugin://script.module.horus?action=play&id=8156912ae14f6174a19c8a4efcf36a06e847f632
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 2 1080p **
-plugin://script.module.horus?action=play&id=bb26037a253866d341778181eff5c8637240d615
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 3 720p *
-plugin://script.module.horus?action=play&id=5b7f54b12e0f96ceba1299f44eac4b0f97403e4e
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 3 720p **
 plugin://script.module.horus?action=play&id=cfc371890bfb502737a26de5215e50929c52d0f9
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 3 1080p *
-plugin://script.module.horus?action=play&id=320bee0fbdf2a168d47810236985a7c40b4f85c9
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 3 1080p **
 plugin://script.module.horus?action=play&id=85a8e0675bc27ddfd403b8f72953c606d07a8de8
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 4" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 4 720p **
-plugin://script.module.horus?action=play&id=5ba9368d80d2f87ac1c6d71df4e7e6e26e6911f2
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 4" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 4 1080p *
 plugin://script.module.horus?action=play&id=91ac4585368992720ec17ffa5b4389368c6dcac1
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 4" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 4 1080p **
-plugin://script.module.horus?action=play&id=e9f4493d2d851f4636720f639113e05b4a21a74c
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 4" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 4 1080p **
-plugin://script.module.horus?action=play&id=64f01629d4a19e70efd9e6778c397282ba087547
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%205.png" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 7 1080p *
 plugin://script.module.horus?action=play&id=f22268a7d4a279feee02243d93a65cca2825c8e1
 #EXTINF:-1 tvg-id="Movistar Plus+ HD" tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" group-title="MOVISTAR",MOVISTAR PLUS 1080p *
@@ -92,392 +100,47 @@ plugin://script.module.horus?action=play&id=ed74406ccdb3c21941b919db6bffca7f1de0
 plugin://script.module.horus?action=play&id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
 #EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" group-title="MOVISTAR DEPORTES",M+ Deportes 720p *
 plugin://script.module.horus?action=play&id=6e031aed136bf97d8667fcd5fc49c73256928281
-#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" group-title="MOVISTAR DEPORTES",M+ Deportes 720p **
-plugin://script.module.horus?action=play&id=2f3cfd199a49819cbd129689a840dc3d23ab93aa
 #EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" group-title="MOVISTAR DEPORTES",M+ Deportes 1080p *
 plugin://script.module.horus?action=play&id=c6a824a81b36f6c3529826477caf2ad94b45776d
-#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" group-title="MOVISTAR DEPORTES",M+ Deportes 1080p **
-plugin://script.module.horus?action=play&id=ebca4a63ce3bfda7b272964a1acc5227218184a4
 #EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" group-title="MOVISTAR DEPORTES",M+ Deportes 2 720p **
 plugin://script.module.horus?action=play&id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25
-#EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" group-title="MOVISTAR DEPORTES",M+ Deportes 2 1080p *
-plugin://script.module.horus?action=play&id=3774d8feab016ca766b35ea8488e7514ca30e0ee
-#EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" group-title="MOVISTAR DEPORTES",M+ Deportes 2 1080p **
-plugin://script.module.horus?action=play&id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0
 #EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" group-title="MOVISTAR DEPORTES",M+ Deportes 2 1080p **
 plugin://script.module.horus?action=play&id=890901fa742b19d8808cf49f19db2d3016437c56
-#EXTINF:-1 tvg-id="M+ Deportes 3" tvg-logo="https://i.ibb.co/jDg5qWD/deportes3.png" group-title="MOVISTAR DEPORTES",M+ Deportes 3 720p *
-plugin://script.module.horus?action=play&id=e9ce6e62ff97f1da7f10fd449a3c8e8ee90b253d
-#EXTINF:-1 tvg-id="M+ Deportes 3" tvg-logo="https://i.ibb.co/jDg5qWD/deportes3.png" group-title="MOVISTAR DEPORTES",M+ Deportes 3 720p **
-plugin://script.module.horus?action=play&id=2fd410c5d89e7a627cd3785685b7915b8e4bd534
+#EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" group-title="MOVISTAR DEPORTES",M+ Deportes 2 1080p **
+plugin://script.module.horus?action=play&id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0
 #EXTINF:-1 tvg-id="M+ Deportes 3" tvg-logo="https://i.ibb.co/jDg5qWD/deportes3.png" group-title="MOVISTAR DEPORTES",M+ Deportes 3 1080p *
 plugin://script.module.horus?action=play&id=f4d9011721fad5098febbe4d7c078a582e176a01
-#EXTINF:-1 tvg-id="M+ Deportes 3" tvg-logo="https://i.ibb.co/jDg5qWD/deportes3.png" group-title="MOVISTAR DEPORTES",M+ Deportes 3 1080p **
-plugin://script.module.horus?action=play&id=799c6b5ee1cf41af077d14e3f9c45a32697eb903
-#EXTINF:-1 tvg-id="M+ Deportes 4" tvg-logo="https://i.ibb.co/WDN9NN9/deportes4.png" group-title="MOVISTAR DEPORTES",M+ Deportes 4 720p *
-plugin://script.module.horus?action=play&id=2a5d90651e212106434edea5bfbba1a843b7b97c
 #EXTINF:-1 tvg-id="M+ Deportes 4" tvg-logo="https://i.ibb.co/WDN9NN9/deportes4.png" group-title="MOVISTAR DEPORTES",M+ Deportes 4 1080p *
 plugin://script.module.horus?action=play&id=4abe06c5cce7cb3c6bef2c3bccaafefd3299794f
 #EXTINF:-1 tvg-id="M+ Deportes 4" tvg-logo="https://i.ibb.co/WDN9NN9/deportes4.png" group-title="MOVISTAR DEPORTES",M+ Deportes 4 **
 plugin://script.module.horus?action=play&id=590a1f4546e3a0d5d419b62b8177b44d6ce0339f
-#EXTINF:-1 tvg-id="M+ Deportes 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-5-por-movistar-plus-es.png" group-title="MOVISTAR DEPORTES",M+ Deportes 5 1080p *
-plugin://script.module.horus?action=play&id=646a1ed4ece843de1979f7888cbdd4d937506a28
-#EXTINF:-1 tvg-id="M+ Deportes 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-5-por-movistar-plus-es.png" group-title="MOVISTAR DEPORTES",M+ Deportes 5 **
-plugin://script.module.horus?action=play&id=7b361369a40046ad3011086f9d4ae2982fb4d5aa
-#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="MOVISTAR DEPORTES",M+ Vamos 720p *
-plugin://script.module.horus?action=play&id=866a8af8faacf8fc9eb997ab5a68b4dfee4edc77
+#EXTINF:-1 tvg-id="M+ Golf 2 HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/irjqp71744196637.png" group-title="MOVISTAR DEPORTES",M+ Golf 2 *
+plugin://script.module.horus?action=play&id=ac321484243571f59e077f2a2521e648dc0c7b03
 #EXTINF:-1 tvg-id="M+ Vamos HD" tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="MOVISTAR DEPORTES",M+ Vamos 720p **
 plugin://script.module.horus?action=play&id=0e5d8c9724fa9163f49096b70484e315251eb785
 #EXTINF:-1 tvg-id="M+ Vamos HD" tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="MOVISTAR DEPORTES",M+ Vamos 1080p *
 plugin://script.module.horus?action=play&id=ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc
-#EXTINF:-1 tvg-id="M+ Vamos 2" tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="MOVISTAR DEPORTES",M+ VAMOS 2 720p *
-plugin://script.module.horus?action=play&id=f51674b1dd1ab5a668fa97a0f13a490632f0d7ca
 #EXTINF:-1 tvg-id="M+ Vamos 2" tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="MOVISTAR DEPORTES",M+ VAMOS 2 720p **
 plugin://script.module.horus?action=play&id=4ee16a7f854219fa2974ef1468e6b2f8574189dd
 #EXTINF:-1 tvg-id="M+ Vamos 2" tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="MOVISTAR DEPORTES",M+ VAMOS 2 1080p *
 plugin://script.module.horus?action=play&id=5e310dbffed8c941d20ad819cb8ef43c34b07884
-#EXTINF:-1 tvg-id="M+ Vamos 2" tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="MOVISTAR DEPORTES",M+ VAMOS 2 1080p **
-plugin://script.module.horus?action=play&id=0cd11c1f51b84ebe9954496b3ef9b6aeccf7307c
+#EXTINF:-1 tvg-id="M+ Vamos 3" tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="MOVISTAR DEPORTES",M+ VAMOS 3 720p **
+plugin://script.module.horus?action=play&id=837883625d40e1eb5566eefaf74811046491f53a
+#EXTINF:-1 tvg-id="M+ Vamos 3" tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="MOVISTAR DEPORTES",M+ VAMOS 3 1080p *
+plugin://script.module.horus?action=play&id=a9299052e9a16e5e2924e1fdd00b877c374f9e96
 #EXTINF:-1 tvg-id="M+ Vamos 3" tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="MOVISTAR DEPORTES",M+ VAMOS 3 1080p *
 plugin://script.module.horus?action=play&id=b46a524780cf0ac5e533491fe79389d6198acf2c
+#EXTINF:-1 tvg-id="M+ Vamos 3" tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="MOVISTAR DEPORTES",M+ VAMOS 3 1080p **
+plugin://script.module.horus?action=play&id=b7b1c1eeb4be09c63fbc2f319c9760851c274455
+#EXTINF:-1 tvg-id="Primera Federación" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png/revision/latest?cb=20230620215900&path-prefix=es" group-title="RFEF TV",RFEF TV 1080p *
+plugin://script.module.horus?action=play&id=7b742628b9f7e82902bdbc1ff92eba1988875cfc
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTExzu7xibD1sz89l8PlnxvB8oUMOOhDLKywQ&s" group-title="DEPORTES",RALLY TV **
+plugin://script.module.horus?action=play&id=12404b00d2787995d639ccf71a80da5d39d153f9
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTExzu7xibD1sz89l8PlnxvB8oUMOOhDLKywQ&s" group-title="DEPORTES",RALLY TV **
+plugin://script.module.horus?action=play&id=b6ca8e022947548af61d76660b6b6f799a778d31
 #EXTINF:-1 tvg-id="Teledeporte" tvg-logo="https://img2.rtve.es/n/15966755" group-title="DEPORTES",Teledeporte 720p **
 plugin://script.module.horus?action=play&id=b0d1489c9f3239349665ad5ab423363f2b02e5ae
 #EXTINF:-1 tvg-id="Teledeporte" tvg-logo="https://img2.rtve.es/n/15966755" group-title="DEPORTES",Teledeporte 1080p **
 plugin://script.module.horus?action=play&id=77cf022557c56cdf8d8115f50e61f846ad72ee05
-#EXTINF:-1 group-title="OTROS",Disney Junior *
-plugin://script.module.horus?action=play&id=a722bc25dfa16d1112fde83cb79501b9756586d1
-
-
-
-
-
-
-
-#EXTM3U 
-#EXTINF:-1 tvg-id="156" tvg-name="+ Listas en M3U.CL" tvg-logo="https://cdn.m3u.cl/logo/156___Listas_en_M3U_CL.png", + Listas en M3U.CL ✪ | CL
-https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="858" tvg-name="Canal 5 del Pueblo" tvg-logo="https://cdn.m3u.cl/logo/858_Canal_5_del_Pueblo.png", Canal 5 del Pueblo ✪ | AR
-https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="219" tvg-name="Crossing TV" tvg-logo="https://cdn.m3u.cl/logo/219_Crossing_TV.png", Crossing TV ✪ | AR
-https://stmv6.voxtvhd.com.br/crossingtv/crossingtv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="768" tvg-name="Milennio TV" tvg-logo="https://cdn.m3u.cl/logo/768_Milennio_TV.png", Milennio TV ✪ | AR
-https://stmvideo6.livecastv.com/milennio/milennio/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="767" tvg-name="N24TV" tvg-logo="https://cdn.m3u.cl/logo/767_N24TV.png", N24TV ✪ | AR
-https://videostream.shockmedia.com.ar:19360/n24tv/n24tv.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1006" tvg-name="Neo TV" tvg-logo="https://cdn.m3u.cl/logo/1006_Neo_TV.png", Neo TV ✪ | AR
-https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="269" tvg-name="San Luis Mas" tvg-logo="https://cdn.m3u.cl/logo/269_San_Luis_Mas.png", San Luis Mas ✪ | AR
-https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="218" tvg-name="Señal Urbana" tvg-logo="https://cdn.m3u.cl/logo/218_Senal_Urbana.png", Señal Urbana ✪ | AR
-https://stmv1.voxtvhd.com.br/urbanamas/urbanamas/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1010" tvg-name="UNaM Transmedia" tvg-logo="https://cdn.m3u.cl/logo/1010_UNaM_Transmedia.png", UNaM Transmedia ✪ | AR
-http://192.100.186.53:8090/hls/live.stream.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="494" tvg-name="UCL Televisión LATAM" tvg-logo="https://cdn.m3u.cl/logo/494_UCL_Television_LATAM.png", UCL Televisión LATAM ✪ | UY
-https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="771" tvg-name="Mundo de la Musica TV" tvg-logo="https://cdn.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png", Mundo de la Musica TV ✪ | CL
-https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="4" tvg-name="Retro Plus TV" tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png", Retro Plus TV ✪ | CL
-https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="488" tvg-name="Anime Zone TV" tvg-logo="https://cdn.m3u.cl/logo/488_Anime_Zone_TV.png", Anime Zone TV | AR
-http://animezonetv.net/hls/stream.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="50" tvg-name="Locomotion" tvg-logo="https://cdn.m3u.cl/logo/50_Locomotion.png", Locomotion | AR
-http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1691" tvg-name="ZyoonTV" tvg-logo="https://cdn.m3u.cl/logo/1691_ZyoonTV.png", ZyoonTV | UY
-https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="251" tvg-name="13 Max Television" tvg-logo="https://cdn.m3u.cl/logo/251_13_Max_Television.png", 13 Max Television | AR
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="249" tvg-name="5TV" tvg-logo="https://cdn.m3u.cl/logo/249_5TV.png", 5TV | AR
-https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1562" tvg-name="Agenda Necochense" tvg-logo="https://cdn.m3u.cl/logo/1562_Agenda_Necochense.png", Agenda Necochense | AR
-https://stmv5.livecastv.com/neccoagenda/neccoagenda/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="252" tvg-name="Aire de Santa Fe" tvg-logo="https://cdn.m3u.cl/logo/252_Aire_de_Santa_Fe.png", Aire de Santa Fe | AR
-https://redirector.dps.live/hls/airedesantafetv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1150" tvg-name="Antena 91" tvg-logo="https://cdn.m3u.cl/logo/1150_Antena_91.png", Antena 91 | AR
-https://tuvideoonline.com.ar:3393/live/antena91live.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="253" tvg-name="Argentinisima Satelital" tvg-logo="https://cdn.m3u.cl/logo/253_Argentinisima_Satelital.png", Argentinisima Satelital | AR
-https://stream1.sersat.com/hls/argentinisima.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1333" tvg-name="AVC HD" tvg-logo="https://cdn.m3u.cl/logo/1333_AVC_HD.png", AVC HD | AR
-https://giatv.bozztv.com/giatv/giatv-digimediosstreamavc/digimediosstreamavc/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1736" tvg-name="Bravo TV" tvg-logo="https://cdn.m3u.cl/logo/1736_Bravo_TV.png", Bravo TV | AR
-https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="224" tvg-name="Cadena 103" tvg-logo="https://cdn.m3u.cl/logo/224_Cadena_103.png", Cadena 103 | AR
-https://streamlov.alsolnet.com/cadena103/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="266" tvg-name="Canal 10" tvg-logo="https://cdn.m3u.cl/logo/266_Canal_10.png", Canal 10 | AR
-https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1344" tvg-name="Canal 10 San Rafael" tvg-logo="https://cdn.m3u.cl/logo/1344_Canal_10_San_Rafael.png", Canal 10 San Rafael | AR
-https://tv.streamcasthd.com:3436/live/tvdiezlive.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1345" tvg-name="Canal 11 de La Costa" tvg-logo="https://cdn.m3u.cl/logo/1345_Canal_11_de_La_Costa.png", Canal 11 de La Costa | AR
-https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="268" tvg-name="Canal 12 Madryn TV" tvg-logo="https://cdn.m3u.cl/logo/268_Canal_12_Madryn_TV.png", Canal 12 Madryn TV | AR
-https://5f700d5b2c46f.streamlock.net:443/madryntv/madryntv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="227" tvg-name="Canal 13 La Rioja" tvg-logo="https://cdn.m3u.cl/logo/227_Canal_13_La_Rioja.png", Canal 13 La Rioja | AR
-https://stream.arcast.net:4443/mp/mp/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1182" tvg-name="Canal 2 Misiones" tvg-logo="https://cdn.m3u.cl/logo/1182_Canal_2_Misiones.png", Canal 2 Misiones | AR
-https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1057" tvg-name="Canal 21 Misiones" tvg-logo="https://cdn.m3u.cl/logo/1057_Canal_21_Misiones.png", Canal 21 Misiones | AR
-https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="230" tvg-name="Canal 22 Buenos Aires" tvg-logo="https://cdn.m3u.cl/logo/230_Canal_22_Buenos_Aires.png", Canal 22 Buenos Aires | AR
-https://5f700d5b2c46f.streamlock.net:443/canal22/canal22/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1347" tvg-name="Canal 3 Formosa" tvg-logo="https://cdn.m3u.cl/logo/1347_Canal_3_Formosa.png", Canal 3 Formosa | AR
-https://stmvideo6.livecastv.com/agenfor/agenfor/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="776" tvg-name="Canal 3 La Pampa" tvg-logo="https://cdn.m3u.cl/logo/776_Canal_3_La_Pampa.png", Canal 3 La Pampa | AR
-https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="231" tvg-name="Canal 3 Las Heras" tvg-logo="https://cdn.m3u.cl/logo/231_Canal_3_Las_Heras.png", Canal 3 Las Heras | AR
-https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="255" tvg-name="Canal 3 Pinamar" tvg-logo="https://cdn.m3u.cl/logo/255_Canal_3_Pinamar.png", Canal 3 Pinamar | AR
-https://intelincloud01.com.ar/hls/cn3/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1346" tvg-name="Canal 34 San Juan" tvg-logo="https://cdn.m3u.cl/logo/1346_Canal_34_San_Juan.png", Canal 34 San Juan | AR
-https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="257" tvg-name="Canal 4 Bahia Blanca" tvg-logo="https://cdn.m3u.cl/logo/257_Canal_4_Bahia_Blanca.png", Canal 4 Bahia Blanca | AR
-https://bvclive1.boldmss.com/BVC_HD/BVC_HD.isml/BVC_HD.m3u8?dvr_window_length=60&PlaylistM3UCL
-#EXTINF:-1 tvg-id="779" tvg-name="Canal 4 Eldorado" tvg-logo="https://cdn.m3u.cl/logo/779_Canal_4_Eldorado.png", Canal 4 Eldorado | AR
-https://stream.arcast.com.ar/canal4eldorado/canal4eldorado/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="780" tvg-name="Canal 4 Esquel" tvg-logo="https://cdn.m3u.cl/logo/780_Canal_4_Esquel.png", Canal 4 Esquel | AR
-https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="258" tvg-name="Canal 4 Jujuy" tvg-logo="https://cdn.m3u.cl/logo/258_Canal_4_Jujuy.png", Canal 4 Jujuy | AR
-https://5cd577a3dd8ec.streamlock.net/CAMARAS/live4/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="259" tvg-name="Canal 4 Posadas" tvg-logo="https://cdn.m3u.cl/logo/259_Canal_4_Posadas.png", Canal 4 Posadas | AR
-https://iptv.ixfo.com.ar:30443/live-HD/C4POS/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="260" tvg-name="Canal 4 San Juan" tvg-logo="https://cdn.m3u.cl/logo/260_Canal_4_San_Juan.png", Canal 4 San Juan | AR
-https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1348" tvg-name="Canal 40 Caucete" tvg-logo="https://cdn.m3u.cl/logo/1348_Canal_40_Caucete.png", Canal 40 Caucete | AR
-https://canalsj.kozow.com/canal40/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="778" tvg-name="Canal 5 Pico Truncado" tvg-logo="https://cdn.m3u.cl/logo/778_Canal_5_Pico_Truncado.png", Canal 5 Pico Truncado | AR
-https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="773" tvg-name="Canal 5 Santa Fe" tvg-logo="https://cdn.m3u.cl/logo/773_Canal_5_Santa_Fe.png", Canal 5 Santa Fe | AR
-https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1138" tvg-name="Canal 5 Tucuman" tvg-logo="https://cdn.m3u.cl/logo/1138_Canal_5_Tucuman.png", Canal 5 Tucuman | AR
-https://videohd.live:19360/8090/8090.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1709" tvg-name="Canal 5 TV Tandil" tvg-logo="https://cdn.m3u.cl/logo/1709_Canal_5_TV_Tandil.png", Canal 5 TV Tandil | AR
-https://stmvideo1.livecastv.com/madmultimedios/madmultimedios/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="232" tvg-name="Canal 50 Morteros" tvg-logo="https://cdn.m3u.cl/logo/232_Canal_50_Morteros.png", Canal 50 Morteros | AR
-https://online.coopmorteros.coop/canal50/vivo.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="261" tvg-name="Canal 6 Moreno" tvg-logo="https://cdn.m3u.cl/logo/261_Canal_6_Moreno.png", Canal 6 Moreno | AR
-https://stream.arcast.com.ar/canal6moreno/canal6moreno/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="262" tvg-name="Canal 6 Posadas" tvg-logo="https://cdn.m3u.cl/logo/262_Canal_6_Posadas.png", Canal 6 Posadas | AR
-https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="264" tvg-name="Canal 7 Jujuy" tvg-logo="https://cdn.m3u.cl/logo/264_Canal_7_Jujuy.png", Canal 7 Jujuy | AR
-https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1401" tvg-name="Canal 7 Neuquen" tvg-logo="https://cdn.m3u.cl/logo/1401_Canal_7_Neuquen.png", Canal 7 Neuquen | AR
-https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1350" tvg-name="Canal 7 Santiago del Estero" tvg-logo="https://cdn.m3u.cl/logo/1350_Canal_7_Santiago_del_Estero.png", Canal 7 Santiago del Estero | AR
-https://stream.arcast.com.ar/envivo/castv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="272" tvg-name="Canal 79 Mar del Plata" tvg-logo="https://cdn.m3u.cl/logo/272_Canal_79_Mar_del_Plata.png", Canal 79 Mar del Plata | AR
-https://streamconex.com:19360/mardelplata/mardelplata.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="235" tvg-name="Canal 8 Catamarca" tvg-logo="https://cdn.m3u.cl/logo/235_Canal_8_Catamarca.png", Canal 8 Catamarca | AR
-https://stream.arcast.com.ar/c8/c8/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1730" tvg-name="Canal 8 Digital - Entre Rios" tvg-logo="https://cdn.m3u.cl/logo/1730_Canal_8_Digital___Entre_Rios.png", Canal 8 Digital - Entre Rios | AR
-https://live20.bozztv.com/akamaissh101/ssh101/tvcnl8dtlhd/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1336" tvg-name="Canal 8 Mar del Plata" tvg-logo="https://cdn.m3u.cl/logo/1336_Canal_8_Mar_del_Plata.png", Canal 8 Mar del Plata | AR
-https://stream.arcast.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1351" tvg-name="Canal 9 La Rioja" tvg-logo="https://cdn.m3u.cl/logo/1351_Canal_9_La_Rioja.png", Canal 9 La Rioja | AR
-https://inliveserver.com:1936/12014/12014/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="236" tvg-name="Canal 9 Litoral" tvg-logo="https://cdn.m3u.cl/logo/236_Canal_9_Litoral.png", Canal 9 Litoral | AR
-https://stream.arcast.live/ahora/ahora/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="273" tvg-name="Canal 907 FM Comunicar" tvg-logo="https://cdn.m3u.cl/logo/273_Canal_907_FM_Comunicar.png", Canal 907 FM Comunicar | AR
-https://panel.host-live.com:19360/canal907/canal907.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="274" tvg-name="Canal Cinco Tigre" tvg-logo="https://cdn.m3u.cl/logo/274_Canal_Cinco_Tigre.png", Canal Cinco Tigre | AR
-https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="275" tvg-name="Canal Coop" tvg-logo="https://cdn.m3u.cl/logo/275_Canal_Coop.png", Canal Coop | AR
-https://smt-usr-edge01.sensa.com.ar/output/COR/CaroyaCoopH/track_0_3000/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1417" tvg-name="Canal E" tvg-logo="https://cdn.m3u.cl/logo/1417_Canal_E.png", Canal E | AR
-https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="801" tvg-name="Canal Provincial" tvg-logo="https://cdn.m3u.cl/logo/801_Canal_Provincial.png", Canal Provincial | AR
-https://cdn.trimi.com.ar/live/sm-live/PROVINCIAL/sa_live_hls/PROVINCIAL.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1603" tvg-name="Caras TV" tvg-logo="https://cdn.m3u.cl/logo/1603_Caras_TV.png", Caras TV | AR
-https://unlimited2-cl-isp.dps.live/carastv/carastv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="203" tvg-name="Catamarca TV" tvg-logo="https://cdn.m3u.cl/logo/203_Catamarca_TV.png", Catamarca TV | AR
-https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="815" tvg-name="Celta TV" tvg-logo="https://cdn.m3u.cl/logo/815_Celta_TV.png", Celta TV | AR
-https://vivo.solumedia.com:19360/celta/celta.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="279" tvg-name="Chaco TV" tvg-logo="https://cdn.m3u.cl/logo/279_Chaco_TV.png", Chaco TV | AR
-https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="278" tvg-name="Chacra TV" tvg-logo="https://cdn.m3u.cl/logo/278_Chacra_TV.png", Chacra TV | AR
-https://g3.vxral-hor.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/Playlist.m3u8?sense=true&PlaylistM3UCL
-#EXTINF:-1 tvg-id="1352" tvg-name="Chilecito TV" tvg-logo="https://cdn.m3u.cl/logo/1352_Chilecito_TV.png", Chilecito TV | AR
-https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1132" tvg-name="Ciudad Magica TV" tvg-logo="https://cdn.m3u.cl/logo/1132_Ciudad_Magica_TV.png", Ciudad Magica TV | AR
-https://tuvideoonline.com.ar:3145/live/grupocitylive.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1353" tvg-name="Ciudad TV Resistencia" tvg-logo="https://cdn.m3u.cl/logo/1353_Ciudad_TV_Resistencia.png", Ciudad TV Resistencia | AR
-https://617c5175c970b.streamlock.net:4444/chacodxdtv/livenew/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1237" tvg-name="Corrientes TV" tvg-logo="https://cdn.m3u.cl/logo/1237_Corrientes_TV.png", Corrientes TV | AR
-https://vivo.solumedia.com:19360/telemedia/telemedia.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1143" tvg-name="Cosmos TV" tvg-logo="https://cdn.m3u.cl/logo/1143_Cosmos_TV.png", Cosmos TV | AR
-https://canaletaplus.com:3922/hybrid/play.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="238" tvg-name="CPE TV" tvg-logo="https://cdn.m3u.cl/logo/238_CPE_TV.png", CPE TV | AR
-https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1355" tvg-name="Demos Radio Visual" tvg-logo="https://cdn.m3u.cl/logo/1355_Demos_Radio_Visual.png", Demos Radio Visual | AR
-https://videostream.shockmedia.com.ar:19360/demosvisual/demosvisual.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="303" tvg-name="Eco TV" tvg-logo="https://cdn.m3u.cl/logo/303_Eco_TV.png", Eco TV | AR
-https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="281" tvg-name="El 10 TV Salta" tvg-logo="https://cdn.m3u.cl/logo/281_El_10_TV_Salta.png", El 10 TV Salta | AR
-https://stream1.el10tv.com/memfs/accd8bcb-61b0-416b-bf02-0245cb8267f6_output_0.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="820" tvg-name="El Palomar TV Tucuman" tvg-logo="https://cdn.m3u.cl/logo/820_El_Palomar_TV_Tucuman.png", El Palomar TV Tucuman | AR
-https://stmv1.voxtvhd.com.br/palomartv/palomartv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1358" tvg-name="El Trece" tvg-logo="https://cdn.m3u.cl/logo/1358_El_Trece.png", El Trece | AR
-https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="239" tvg-name="Fenix" tvg-logo="https://cdn.m3u.cl/logo/239_Fenix.png", Fenix | AR
-https://stmvideo3.livecastv.com/fenixrioja/fenixrioja/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="803" tvg-name="FM Metropolitana 100.5 MHZ" tvg-logo="https://cdn.m3u.cl/logo/803_FM_Metropolitana_100_5_MHZ.png", FM Metropolitana 100.5 MHZ | AR
-https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1460" tvg-name="FM Universo" tvg-logo="https://cdn.m3u.cl/logo/1460_FM_Universo.png", FM Universo | AR
-https://live20.bozztv.com/giatv/giatv-universotv/universotv/chunks.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="240" tvg-name="GEN TV" tvg-logo="https://cdn.m3u.cl/logo/240_GEN_TV.png", GEN TV | AR
-https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1360" tvg-name="Ingenio FM" tvg-logo="https://cdn.m3u.cl/logo/1360_Ingenio_FM.png", Ingenio FM | AR
-https://videostream.shockmedia.com.ar:19360/ingeniofm/ingeniofm.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1470" tvg-name="La 100" tvg-logo="https://cdn.m3u.cl/logo/1470_La_100.png", La 100 | AR
-https://live-05-13-la100.vodgc.net/live-05-13-la100/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1295" tvg-name="Lapacho TV Canal 11" tvg-logo="https://cdn.m3u.cl/logo/1295_Lapacho_TV_Canal_11.png", Lapacho TV Canal 11 | AR
-https://vivo.solumedia.com:19360/lapacho/lapacho.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1621" tvg-name="Latina TV Mendoza" tvg-logo="https://cdn.m3u.cl/logo/1621_Latina_TV_Mendoza.png", Latina TV Mendoza | AR
-https://stmvideo6.livecastv.com/latina/latina/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="212" tvg-name="Link TV" tvg-logo="https://cdn.m3u.cl/logo/212_Link_TV.png", Link TV | AR
-https://panel.host-live.com:19360/linktv/linktv.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="241" tvg-name="Litus TV" tvg-logo="https://cdn.m3u.cl/logo/241_Litus_TV.png", Litus TV | AR
-https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1694" tvg-name="LT9 Radio Brigadier Lopez" tvg-logo="https://cdn.m3u.cl/logo/1694_LT9_Radio_Brigadier_Lopez.png", LT9 Radio Brigadier Lopez | AR
-https://inliveserver.com:1936/12060/12060/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1086" tvg-name="LTO Television" tvg-logo="https://cdn.m3u.cl/logo/1086_LTO_Television.png", LTO Television | AR
-https://ltocatamarca.github.io/ltotv.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1410" tvg-name="Malbec Play" tvg-logo="https://cdn.m3u.cl/logo/1410_Malbec_Play.png", Malbec Play | AR
-https://streamlov.alsolnet.com/malbecplay/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1130" tvg-name="Mas FM" tvg-logo="https://cdn.m3u.cl/logo/1130_Mas_FM.png", Mas FM | AR
-https://vivo.solumedia.com:19360/masfm/masfm.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1394" tvg-name="Medios Provincia" tvg-logo="https://cdn.m3u.cl/logo/1394_Medios_Provincia.png", Medios Provincia | AR
-https://stream.arcast.net:4443/mp/mp/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1544" tvg-name="Megaclassic TV" tvg-logo="https://cdn.m3u.cl/logo/1544_Megaclassic_TV.png", Megaclassic TV | AR
-https://stmvideo1.livecastv.com/megaclassic/megaclassic/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="795" tvg-name="Metropolitana FM" tvg-logo="https://cdn.m3u.cl/logo/795_Metropolitana_FM.png", Metropolitana FM | AR
-https://panel.host-live.com:19360/metropolitanafm/metropolitanafm.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1362" tvg-name="Misiones Cuatro" tvg-logo="https://cdn.m3u.cl/logo/1362_Misiones_Cuatro.png", Misiones Cuatro | AR
-https://streamlov.alsolnet.com/misionescuatro/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="284" tvg-name="Multivisión" tvg-logo="https://cdn.m3u.cl/logo/284_Multivision.png", Multivisión | AR
-https://panel.host-live.com:19360/8250/8250.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1558" tvg-name="Neo Net Music" tvg-logo="https://cdn.m3u.cl/logo/1558_Neo_Net_Music.png", Neo Net Music | AR
-https://panel.host-live.com:19360/8096/8096.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1363" tvg-name="Neox TV" tvg-logo="https://cdn.m3u.cl/logo/1363_Neox_TV.png", Neox TV | AR
-https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="285" tvg-name="Net TV" tvg-logo="https://cdn.m3u.cl/logo/285_Net_TV.png", Net TV | AR
-https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1458" tvg-name="OKfm 105.7" tvg-logo="https://cdn.m3u.cl/logo/1458_OKfm_105_7.png", OKfm 105.7 | AR
-https://streamlov.alsolnet.com/okfm/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="213" tvg-name="Play Television" tvg-logo="https://cdn.m3u.cl/logo/213_Play_Television.png", Play Television | AR
-https://vivo.solumedia.com:19360/playtv/playtv.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="243" tvg-name="Power" tvg-logo="https://cdn.m3u.cl/logo/243_Power.png", Power | AR
-https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1382" tvg-name="Power Max TV" tvg-logo="https://cdn.m3u.cl/logo/1382_Power_Max_TV.png", Power Max TV | AR
-https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="287" tvg-name="Radio TV Neuquen" tvg-logo="https://cdn.m3u.cl/logo/287_Radio_TV_Neuquen.png", Radio TV Neuquen | AR
-https://media.neuquen.gov.ar/rtn/television/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1453" tvg-name="Radio Valle Viejo" tvg-logo="https://cdn.m3u.cl/logo/1453_Radio_Valle_Viejo.png", Radio Valle Viejo | AR
-https://stream.arcast.ar/radiovalleviejo/ngrp:radiovalleviejo_all/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="221" tvg-name="Radio y Television Santafesina" tvg-logo="https://cdn.m3u.cl/logo/221_Radio_y_Television_Santafesina.png", Radio y Television Santafesina | AR
-https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiI1MDk3ODliM2Y2NGZjNWQ5ZmJiYTc4MjA4OGYzMDRhMSIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzQ3NjUwODMzLCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.L-t_tefnP672WhG3xJ5nmek4XgG7GMlTPQ1whJSyQIA0UeqkGCRIHeprH2eG7rv-TYu-SDVrWbaVjvmKgHia_hLG7EDRhbHdNXdYweTrOSsjBRSGZnLhXf3Q-d-Q?PlaylistM3UCL
-#EXTINF:-1 tvg-id="210" tvg-name="Radiocanal San Francisco" tvg-logo="https://cdn.m3u.cl/logo/210_Radiocanal_San_Francisco.png", Radiocanal San Francisco | AR
-http://204.199.3.2/.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="797" tvg-name="RBD Radio Multimedia" tvg-logo="https://cdn.m3u.cl/logo/797_RBD_Radio_Multimedia.png", RBD Radio Multimedia | AR
-https://videostream.shockmedia.com.ar:19360/rbdradio/rbdradio.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1364" tvg-name="Retro Magico" tvg-logo="https://cdn.m3u.cl/logo/1364_Retro_Magico.png", Retro Magico | AR
-https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1406" tvg-name="Sello TV" tvg-logo="https://cdn.m3u.cl/logo/1406_Sello_TV.png", Sello TV | AR
-https://elsellotv.com.ar:8443/hls/elsello.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="288" tvg-name="Sicardi TV" tvg-logo="https://cdn.m3u.cl/logo/288_Sicardi_TV.png", Sicardi TV | AR
-https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1366" tvg-name="Solive TV" tvg-logo="https://cdn.m3u.cl/logo/1366_Solive_TV.png", Solive TV | AR
-https://stmv6.voxtvhd.com.br/solivetv/solivetv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1072" tvg-name="Somos La Pampa" tvg-logo="https://cdn.m3u.cl/logo/1072_Somos_La_Pampa.png", Somos La Pampa | AR
-https://stream.arcast.com.ar/somosnoticias/somosnoticias/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="244" tvg-name="T5 Satelital" tvg-logo="https://cdn.m3u.cl/logo/244_T5_Satelital.png", T5 Satelital | AR
-https://tvstream.t5satelital.blog/hls/t5satelital.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="289" tvg-name="TDC TV Santa Fe" tvg-logo="https://cdn.m3u.cl/logo/289_TDC_TV_Santa_Fe.png", TDC TV Santa Fe | AR
-https://tdcserver.com:19360/tdconlione-2/tdconlione-2.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="308" tvg-name="Tele Estrella" tvg-logo="https://cdn.m3u.cl/logo/308_Tele_Estrella.png", Tele Estrella | AR
-https://stmvideo6.livecastv.com/telestrella/telestrella/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1543" tvg-name="Telecondor Internacional" tvg-logo="https://cdn.m3u.cl/logo/1543_Telecondor_Internacional.png", Telecondor Internacional | AR
-https://stmvideo1.livecastv.com/telecondor/telecondor/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="290" tvg-name="Telecreativa" tvg-logo="https://cdn.m3u.cl/logo/290_Telecreativa.png", Telecreativa | AR
-https://panel.host-live.com:19360/8012/8012.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="246" tvg-name="Telefe Rosario" tvg-logo="https://cdn.m3u.cl/logo/246_Telefe_Rosario.png", Telefe Rosario | AR
-http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1368" tvg-name="TeleJunin" tvg-logo="https://cdn.m3u.cl/logo/1368_TeleJunin.png", TeleJunin | AR
-https://videostream.shockmedia.com.ar:19360/telejunin/telejunin.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="292" tvg-name="Telemax" tvg-logo="https://cdn.m3u.cl/logo/292_Telemax.png", Telemax | AR
-https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="814" tvg-name="TeleNord" tvg-logo="https://cdn.m3u.cl/logo/814_TeleNord.png", TeleNord | AR
-https://617c5175c970b.streamlock.net:4444/previsoratv/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="295" tvg-name="Telesol San Juan" tvg-logo="https://cdn.m3u.cl/logo/295_Telesol_San_Juan.png", Telesol San Juan | AR
-https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1542" tvg-name="Televideo" tvg-logo="https://cdn.m3u.cl/logo/1542_Televideo.png", Televideo | AR
-https://stmvideo1.livecastv.com/televideo/televideo/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1369" tvg-name="Televideo Regional" tvg-logo="https://cdn.m3u.cl/logo/1369_Televideo_Regional.png", Televideo Regional | AR
-https://videohd.live:19360/8010/8010.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="293" tvg-name="Telpin Canal 2" tvg-logo="https://cdn.m3u.cl/logo/293_Telpin_Canal_2.png", Telpin Canal 2 | AR
-https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="294" tvg-name="Tierramia TV" tvg-logo="https://cdn.m3u.cl/logo/294_Tierramia_TV.png", Tierramia TV | AR
-https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8#t=0.1?PlaylistM3UCL
-#EXTINF:-1 tvg-id="777" tvg-name="Tribu TV" tvg-logo="https://cdn.m3u.cl/logo/777_Tribu_TV.png", Tribu TV | AR
-https://stream.arcast.com.ar/tributv/tributv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="788" tvg-name="TV Dos Salta" tvg-logo="https://cdn.m3u.cl/logo/788_TV_Dos_Salta.png", TV Dos Salta | AR
-https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1723" tvg-name="TV Estacion Mix" tvg-logo="https://cdn.m3u.cl/logo/1723_TV_Estacion_Mix.png", TV Estacion Mix | AR
-https://masplay.x10.mx/proxy/mixtv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="297" tvg-name="TV Mana" tvg-logo="https://cdn.m3u.cl/logo/297_TV_Mana.png", TV Mana | AR
-https://w2.manasat.com:443/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1370" tvg-name="TV Solidaria" tvg-logo="https://cdn.m3u.cl/logo/1370_TV_Solidaria.png", TV Solidaria | AR
-https://canadaremar2.todostreaming.es/live/argentina-web.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="248" tvg-name="Uni Teve" tvg-logo="https://cdn.m3u.cl/logo/248_Uni_Teve.png", Uni Teve | AR
-https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="247" tvg-name="UNIRIO" tvg-logo="https://cdn.m3u.cl/logo/247_UNIRIO.png", UNIRIO | AR
-https://audiov-srv2.rec.unrc.edu.ar/hls/stream.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1371" tvg-name="UNLP TV" tvg-logo="https://cdn.m3u.cl/logo/1371_UNLP_TV.png", UNLP TV | AR
-https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1372" tvg-name="Urbana TeVe" tvg-logo="https://cdn.m3u.cl/logo/1372_Urbana_TeVe.png", Urbana TeVe | AR
-https://cdnhd.iblups.com/hls/DD3nXkAkWk.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1374" tvg-name="Ver TV" tvg-logo="https://cdn.m3u.cl/logo/1374_Ver_TV.png", Ver TV | AR
-https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1144" tvg-name="Zonda TV" tvg-logo="https://cdn.m3u.cl/logo/1144_Zonda_TV.png", Zonda TV | AR
-https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1288" tvg-name="Suyai TV" tvg-logo="https://cdn.m3u.cl/logo/1288_Suyai_TV.png", Suyai TV | CL
-https://signal.suyaitv.cl/live/36/playlist.m3u8?username=zzwebSuyai&password=zzwebSuyai96&PlaylistM3UCL
-#EXTINF:-1 tvg-id="1100" tvg-name="DEPORTV" tvg-logo="https://cdn.m3u.cl/logo/1100_DEPORTV.png", DEPORTV | AR
-https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="282" tvg-name="Garage TV" tvg-logo="https://cdn.m3u.cl/logo/282_Garage_TV.png", Garage TV | AR
-https://stream1.sersat.com/hls/garagetv.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="493" tvg-name="Net TV" tvg-logo="https://cdn.m3u.cl/logo/493_Net_TV.png", Net TV | AR
-https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="492" tvg-name="TV Publica" tvg-logo="https://cdn.m3u.cl/logo/492_TV_Publica.png", TV Publica | AR
-https://g4.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="24" tvg-name="Music Top" tvg-logo="https://cdn.m3u.cl/logo/24_Music_Top.png", Music Top | AR
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="521" tvg-name="Recuerdos Retro Radio TV" tvg-logo="https://cdn.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png", Recuerdos Retro Radio TV | CL
-https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="5" tvg-name="Retro Plus TV Señal 2" tvg-logo="https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png", Retro Plus TV Señal 2 | CL
-https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1719" tvg-name="Retroclub" tvg-logo="https://cdn.m3u.cl/logo/1719_Retroclub.png", Retroclub | AR
-https://video08.logicahost.com.br/retroclub/retroclub/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1267" tvg-name="Sonido Sur" tvg-logo="https://cdn.m3u.cl/logo/1267_Sonido_Sur.png", Sonido Sur | AR
-https://tv.streamcasthd.com:3553/live/sonidosurtvlive.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="775" tvg-name="ZN Noticias" tvg-logo="https://cdn.m3u.cl/logo/775_ZN_Noticias.png", ZN Noticias | AR
-https://stmv3.voxtvhd.com.br/znnoticias/znnoticias/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="465" tvg-name="Retro Plus TV Señal 3" tvg-logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png", Retro Plus TV Señal 3 | CL
-https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1696" tvg-name="Videoclub" tvg-logo="https://cdn.m3u.cl/logo/1696_Videoclub.png", Videoclub | AR
-https://videostream.shockmedia.com.ar:19360/videoclub/videoclub.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1078" tvg-name="Canal 6 - Viento Recio Internacional" tvg-logo="https://cdn.m3u.cl/logo/1078_Canal_6___Viento_Recio_Internacional.png", Canal 6 - Viento Recio Internacional | AR
-https://stmvideo6.livecastv.com/vientorecio/vientorecio/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1462" tvg-name="Inminente TV" tvg-logo="https://cdn.m3u.cl/logo/1462_Inminente_TV.png", Inminente TV | AR
-https://tuvideoonline.com.ar:3673/live/ideasdelcielolive.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1620" tvg-name="Monte Grande" tvg-logo="https://cdn.m3u.cl/logo/1620_Monte_Grande.png", Monte Grande | AR
-https://stream.gia.tv/giatvplayout7/giatv-209181/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1003" tvg-name="Sublime Gracia TV" tvg-logo="https://cdn.m3u.cl/logo/1003_Sublime_Gracia_TV.png", Sublime Gracia TV | AR
-https://5f700d5b2c46f.streamlock.net:443/sublime/sublime/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1692" tvg-name="PRIDEtv Latam" tvg-logo="https://cdn.m3u.cl/logo/1692_PRIDEtv_Latam.png", PRIDEtv Latam | CL
-https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
-https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="Teledeporte" tvg-logo="https://img2.rtve.es/n/15966755" group-title="DEPORTES",Teledeporte 1080p **
+plugin://script.module.horus?action=play&id=3b50a1dca0977e3761d016edd79314ab797f74f6
