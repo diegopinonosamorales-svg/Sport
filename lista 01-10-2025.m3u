@@ -723,3 +723,39 @@ plugin://script.module.horus?action=play&id=fce354f24fe26ca527e2c38b14eb7b0c81f7
 plugin://script.module.horus?action=play&id=92f8939c7bff6bcb7e6da39379bb3d7a6a76693f
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Хоккейный HD (RU) --> SPORT TV
 plugin://script.module.horus?action=play&id=99f0646986e9266836dd79047dedecb04e243857
+
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Barsa - PSG", Футбольный HD (RU) --> SPORT TV
+plugin://script.module.horus?action=play&id=8cdb6d53f66d73bc8cba8ef850ab7895bcfa91a8
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Barsa - PSG", Футбольный HD (RU) --> SPORT TV
+plugin://script.module.horus?action=play&id=6b60251bc893c4e79fdfa37a1f5f6212e73ea6f9
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Barsa - PSG", Футбольный HD (RU) --> SPORT TV
+plugin://script.module.horus?action=play&id=7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Barsa - PSG", Футбольный HD (RU) --> SPORT TV
+plugin://script.module.horus?action=play&id=26159ba451167e962f4f9236ab4c7626f7eb4e49
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Barsa - PSG", Футбольный HD (RU) --> SPORT TV
+plugin://script.module.horus?action=play&id=866a8af8faacf8fc9eb997ab5a68b4dfee4edc77
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Barsa - PSG", Футбольный HD (RU) --> SPORT TV
+plugin://script.module.horus?action=play&id=86262568aa72b956b06ac67b1c310a32248a0e98
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Barsa - PSG", Футбольный HD (RU) --> SPORT TV
+plugin://script.module.horus?action=play&id=91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Barsa - PSG", Футбольный HD (RU) --> SPORT TV
+plugin://script.module.horus?action=play&id=91af434b0bb521189286f8cbbab1aed39d7536fe
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Barsa - PSG", Футбольный HD (RU) --> SPORT TV
+plugin://script.module.horus?action=play&id=97df5b7824948972d041d8ca2a4d29c90b641bc9
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Barsa - PSG", Футбольный HD (RU) --> SPORT TV
+plugin://script.module.horus?action=play&id=63e4713e8379f2ebf5e6ed9aa00fbf78ebae7439
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Barsa - PSG", Футбольный HD (RU) --> SPORT TV
+plugin://script.module.horus?action=play&id=931fd4c24398a24beb9b6ede856ca34339ff2c22
+
+
+acestream://8cdb6d53f66d73bc8cba8ef850ab7895bcfa91a8
+acestream://6b60251bc893c4e79fdfa37a1f5f6212e73ea6f9
+acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16
+acestream://26159ba451167e962f4f9236ab4c7626f7eb4e49
+acestream://866a8af8faacf8fc9eb997ab5a68b4dfee4edc77
+acestream://86262568aa72b956b06ac67b1c310a32248a0e98
+acestream://91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920
+acestream://91af434b0bb521189286f8cbbab1aed39d7536fe
+acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9
+acestream://63e4713e8379f2ebf5e6ed9aa00fbf78ebae7439
+acestream://931fd4c24398a24beb9b6ede856ca34339ff2c22
